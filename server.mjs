@@ -1,8 +1,6 @@
 import { createServer } from "http";
 
-createServer((res) => {
-  res.write("Hello World!");
-  res.end();
-}).listen(process.env.PORT);
-
-//
+createServer((_req, res) => {
+  res.writeHead(200);
+  res.end("Hello world");
+}).listen(process.env.PORT || 3000);

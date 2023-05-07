@@ -1,0 +1,28 @@
+# Logfile created on 2023-05-07 10:27:02 +0530 by logger.rb/v1.4.2
+  INFO ---------------------------------------------------------------------------
+  INFO START 2023-05-07 10:27:02 +0530 cap production deploy:check_write_permissions
+  INFO ---------------------------------------------------------------------------
+  INFO ---------------------------------------------------------------------------
+  INFO START 2023-05-07 10:27:27 +0530 cap production deploy:check_write_permissions
+  INFO ---------------------------------------------------------------------------
+  INFO ---------------------------------------------------------------------------
+  INFO START 2023-05-07 10:28:36 +0530 cap production deploy:check_write_permissions
+  INFO ---------------------------------------------------------------------------
+  INFO ---------------------------------------------------------------------------
+  INFO START 2023-05-07 10:29:06 +0530 cap production deploy:check_write_permissions
+  INFO ---------------------------------------------------------------------------
+  INFO ---------------------------------------------------------------------------
+  INFO START 2023-05-07 10:29:08 +0530 cap production deploy:check_write_permissions
+  INFO ---------------------------------------------------------------------------
+  INFO ---------------------------------------------------------------------------
+  INFO START 2023-05-07 10:31:30 +0530 cap production deploy:check_write_permissions
+  INFO ---------------------------------------------------------------------------
+ DEBUG [ce4f76a5] Running [ -w /var/www/http_node ] as root@167.172.96.149
+ DEBUG [ce4f76a5] Command: [ -w /var/www/http_node ]
+  INFO ---------------------------------------------------------------------------
+  INFO START 2023-05-07 10:32:47 +0530 cap production deploy:check_write_permissions
+  INFO ---------------------------------------------------------------------------
+ DEBUG [b3c83547] Running [ -w /var/www/http_node ] as root@167.172.96.149
+ DEBUG [b3c83547] Command: [ -w /var/www/http_node ]
+ DEBUG [b3c83547] Finished in 2.897 seconds with exit status 0 (successful).
+  INFO /var/www/http_node is writable on 167.172.96.149
